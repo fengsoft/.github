@@ -1,18 +1,21 @@
 # Fengsoft
 
-This org is now a legacy namespace.
+Fengsoft is the official company namespace behind Andrews Rigom's software products.
 
-Active work moved to:
+## Products
 
-- [Saazip](https://github.com/saazip): current home for the SaaS starter stack, core packages, and template products.
-- [Andrews Rigom](https://github.com/andrewsrigom): personal GitHub profile, including ongoing SeniorPath work and related projects.
+- [Saazip](https://github.com/saazip) — SaaS starter stack, free template, premium template, and related commercial tooling.
+- SeniorPath — education and career product line, with repository organization still being consolidated.
 
-## Go here instead
+## Main public entrypoints
 
-- [saazip/saas-starter](https://github.com/saazip/saas-starter) — starter base and runtime composition
-- [saazip/saas-free-template](https://github.com/saazip/saas-free-template) — free distributable template
-- [saazip/saas-premium](https://github.com/saazip/saas-premium) — premium commercial template/product
-- [saazip/saas-core](https://github.com/saazip/saas-core) — SaaS domain primitives
-- [saazip/auth-core](https://github.com/saazip/auth-core) — auth, orgs, sessions, API keys
+- [saazip/saas-starter](https://github.com/saazip/saas-starter)
+- [saazip/saas-free-template](https://github.com/saazip/saas-free-template)
+- [saazip/saas-premium](https://github.com/saazip/saas-premium)
+- [saazip/saas-core](https://github.com/saazip/saas-core)
+- [saazip/auth-core](https://github.com/saazip/auth-core)
 
-If you arrived here from old Fengsoft links, use the `saazip` org for the current repositories.
+## Notes
+
+- Some products may live in dedicated GitHub orgs when that improves branding and distribution.
+- Fengsoft remains the company-level umbrella for the products and internal platform work behind them.
